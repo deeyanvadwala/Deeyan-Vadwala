@@ -1,6 +1,9 @@
 # Portfolio
 This portfolio website was built using HTML, CSS, JavaScript.
 
+# Live Demo
+https://deeyanvadwala.github.io/Deeyan-Vadwala/
+
 ## Features
 - **Homepage:** Includes links to various sections, including About Me, Projects, Skills, Experience, Certificates, and Contact information.
 - **Responsive Design:** Fully responsive layout that works on both mobile and desktop devices.
